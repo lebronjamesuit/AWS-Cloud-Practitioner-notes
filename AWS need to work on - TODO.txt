@@ -14,7 +14,7 @@ Need to improve areas
  
 9. Which AWS database service proviced historical data of your application changes?
 
-
+------
 
  AWS Resource
  
@@ -23,3 +23,26 @@ Need to improve areas
  Hey, I need to see metrics AWS resources -> ok, Metrics, please go for CloudWatch (CPU, RAM, netwoks, access time)
  Hey, Your resouces is public as APIs, i need to see the audit record of API calls ->  go for AWS CloudTrail
  
+-----
+AWS SES ?? 
+  
+What is AWS RedShift ??
+
+AWS SNS ?
+
+AWS Concierge ?? 
+
+What is penetration testing on AWS?
+
+consolidated  billing? 
+
+What is  AWS shared controls? why?
+
+What is AWS Elastic MapReduce? Why?
+
+What is AWS SDK in EDI project with Matt? 
+
+AWS Exam Test 1 - Udemy - 67% - Dec 13
+Fairly sure: 17, 20, 23, 24, 27, 31
+Unsure: 21,22,26,33,36, 36
+Unknow: 28,29,34,44,46,48
