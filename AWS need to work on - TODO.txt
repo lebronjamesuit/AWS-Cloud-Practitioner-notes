@@ -1,0 +1,25 @@
+AWS Cloud  - 
+
+Need to improve areas
+
+1.  AWS EFS
+2.  AWS security
+3.  Which of the following is AWS Migration Strategy?
+4. Which perspective of the AWS Cloud Adoption Framework focuses on minimizing the business risks?
+
+5. Which AWS service helps you build text chatbots? --> AWS Lex? please check
+6. Amazon Aurora
+7. What does AWS Shield protects from?
+8.AWS Elastic Block Store Snapshot is full data backup. True or false ?
+ 
+9. Which AWS database service proviced historical data of your application changes?
+
+
+
+ AWS Resource
+ 
+ Hey, I need to identifies security groups -> go for AWS Trusted Advisor
+ Hey, I need to moitors and records change AWS resouce -> go for AWS Config
+ Hey, I need to see metrics AWS resources -> ok, Metrics, please go for CloudWatch (CPU, RAM, netwoks, access time)
+ Hey, Your resouces is public as APIs, i need to see the audit record of API calls ->  go for AWS CloudTrail
+ 
