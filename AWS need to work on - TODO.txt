@@ -24,21 +24,28 @@ Need to improve areas
  Hey, Your resouces is public as APIs, i need to see the audit record of API calls ->  go for AWS CloudTrail
  
 -----
-AWS SES ?? 
-  
-What is AWS RedShift ??
-
-AWS SNS ?
-
-AWS Concierge ?? 
-
 What is penetration testing on AWS?
 
-consolidated  billing? 
+What is  AWS shared controls? 
 
-What is  AWS shared controls? why?
+What is AWS Elastic MapReduce? benefits? -> Create clusters computing in a few minutes without spending so much time on maintenance and operate AWS EMR, Hadoop
 
-What is AWS Elastic MapReduce? Why?
+What is AWS SDK in EDI project with Matt? -> Libraries allow Go to talk with AWS Cloud.
+
+What is AWS Cloud Adoption Framework (AWS CAF)?
+  -> Business | People | Platform | Security | Operation
+
+Need to improve areas
+
+1.  AWS EFS -> Elastic File System… 
+
+4.  AWS Cloud Adoption Framework focuses on minimizing the business risks? 
+-> That would be business perspective because they have 
+
+8.AWS Elastic Block Store Snapshot is full data backup. True or false ?
+ 
+9. Which AWS database service provide historical data of your application changes? -> Ledger Quantum DB ….it stores stages of application changes.
+
 
 What is AWS SDK in EDI project with Matt? 
 
@@ -46,3 +53,28 @@ AWS Exam Test 1 - Udemy - 67% - Dec 13
 Fairly sure: 17, 20, 23, 24, 27, 31
 Unsure: 21,22,26,33,36, 36
 Unknow: 28,29,34,44,46,48
+
+
+
+
+
+
+-- General advise ---
+ passed the AWS Cloud Practitioner exam on the first try with 834 out of 1,000 after using these practice exams. 
+ I first took the entire AWS Cloud Practitioner Essentials course through AWS. 
+ When I attempted the first two practice exams here, I was scoring around 60%. 
+ I studied the descriptions of the correct and incorrect answers for the practice tests, 
+ and as I did exams 3&4, noticed the score had improved into the upper 60s.
+ When I took exam 5, I finally got a passing score (exactly 70%), and 74% on exam 6.
+
+ Prior to taking the actual AWS exam, I retook tests 1-4 and scored in the upper 80s and low 90s.
+
+I found the practice questions comparable in difficulty to the actual exam. 
+Possibly the most critical difference between the actual exam and the practice tests were that I took the exam more seriously,
+ flagged questions for further review, and then re-reviewed all the remaining questions one more time before submitting them. 
+ 
+ At 65 questions, the allocated time is plenty long enough to go through most or all of the questions more than once to make sure you have the best answers.
+
+Glad to have had the practice exams, though, as the explanations on 
+why a specific choice was or wasn't correct were clear, concise, 
+and provided a lot more detail than what was available on the AWS trainings.
