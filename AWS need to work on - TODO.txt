@@ -56,9 +56,6 @@ Unknow: 28,29,34,44,46,48
 
 
 
-
-
-
 -- General advise ---
  passed the AWS Cloud Practitioner exam on the first try with 834 out of 1,000 after using these practice exams. 
  I first took the entire AWS Cloud Practitioner Essentials course through AWS. 
@@ -78,3 +75,42 @@ Possibly the most critical difference between the actual exam and the practice t
 Glad to have had the practice exams, though, as the explanations on 
 why a specific choice was or wasn't correct were clear, concise, 
 and provided a lot more detail than what was available on the AWS trainings.
+
+
+-- 
+
+What is penetration testing on AWS?
+
+What is  AWS shared controls? 
+
+What is AWS Elastic MapReduce? benefits? -> Create clusters computing in a few minutes without spending so much time on maintenance and operate AWS EMR, Hadoop
+
+What is AWS SDK in EDI project with Matt? -> Libraries allow Go to talk with AWS Cloud.
+
+What is AWS Cloud Adoption Framework (AWS CAF)?
+  -> Business | People | Platform | Security | Operation
+
+Need to improve areas
+
+1.  AWS EFS -> Elastic File System… 
+
+4.  AWS Cloud Adoption Framework focuses on minimizing the business risks? 
+-> That would be business perspective because they have 
+
+8.AWS Elastic Block Store Snapshot is full data backup. True or false ?
+ 
+9. Which AWS database service provide historical data of your application changes? -> Ledger Quantum DB ….it stores stages of application changes.
+
+
+AWS SES			
+AWS SNS	Simple Notification Service, it shows publish and subscribe development model between components in the system		
+AWS Concierge	They know well about Billing & Accounts for Enterprise support plan which CDL has.		
+ AWS Migration Strategy	6 strategies: Scylla might use "lift and shift", Rehost. 		
+AWS EFS	Elastic File System vs S3		
+AWS Shield	Protect DDOS attacks		
+AWS helps chatbot, speech recognition	AWS Lex -> Alexa		
+AWS consolidated  billing	10 accounts are in 1 bill, each accounts get more volumn discount		
+What is AWS RedShift ??	Use to analytics data warehousing		
+AWS Outpost	… what's it for?		
+Internet gateway	Why we need it?		
+Why Security Groups are stateful, not stateless?	Use the previous traffic to allow flow and evaluating in new request to EC2 instances.		
